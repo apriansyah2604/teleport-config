@@ -1,0 +1,12 @@
+[
+  {
+    "Name": "Lobby",
+    "PlaceId": 1234567890,
+    "Icon": "rbxassetid://1111111111"
+  },
+  {
+    "Name": "Dugem",
+    "PlaceId": 9876543210,
+    "Icon": "rbxassetid://2222222222"
+  }
+]
