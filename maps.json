@@ -2,7 +2,7 @@
   {
     "Name": "NIGHT VIBES",
     "PlaceId": "108744060901139",
-    "Icon": "rbxassetid://92115299737948"
+    "Icon": "rbxassetid://127467712932542"
   },  
   {
     "Name": "SURGA DUNIA",
@@ -47,5 +47,11 @@
     "Name": "BALI PARADISE",
     "PlaceId": "96611763729085",
     "Icon": "rbxassetid://113361162052122"
+  }
+    },
+       {
+    "Name": "GO KART INDO",
+    "PlaceId": "90814120027704",
+    "Icon": "rbxassetid://75214760916731"
   }
 ]
