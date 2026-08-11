@@ -3,7 +3,7 @@
     "Name": "NIGHT VIBES",
     "PlaceId": "108744060901139",
     "Icon": "rbxassetid://127467712932542"
-  },  
+  },
   {
     "Name": "SURGA DUNIA",
     "PlaceId": "108573422641026",
@@ -18,39 +18,40 @@
     "Name": "RANG HILANG",
     "PlaceId": "117329679880313",
     "Icon": "rbxassetid://77909327049599"
-  }, {
+  },
+  {
     "Name": "PARKOUR CITY BLUE",
     "PlaceId": "113416088111827",
     "Icon": "rbxassetid://121087720084620"
   },
-   {
+  {
     "Name": "AV ARENA",
     "PlaceId": "134794987581522",
     "Icon": "rbxassetid://104086716183310"
   },
-    {
+  {
     "Name": "MT BANDA NEIRA JALUR EXTREAM",
     "PlaceId": "135786186771204",
     "Icon": "rbxassetid://111034636493223"
   },
-    {
+  {
     "Name": "MENJADI PETANI",
     "PlaceId": "92999311463755",
     "Icon": "rbxassetid://89336748593910"
   },
-     {
+  {
     "Name": "TEMPAT NONGKRONG",
     "PlaceId": "110701523429897",
     "Icon": "rbxassetid://95231534071546"
   },
-       {
+  {
     "Name": "BALI PARADISE",
     "PlaceId": "96611763729085",
     "Icon": "rbxassetid://113361162052122"
   },
-       {
+  {
     "Name": "GO KART INDO",
     "PlaceId": "90814120027704",
     "Icon": "rbxassetid://75214760916731"
-  },
+  }
 ]
